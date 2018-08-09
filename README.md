@@ -10,3 +10,6 @@ saved in an output file to be plotted.
 
 ## Data
 Resulting CSV values to be plotted
+
+## Final Results 
+Contains PDF with the plotted final results and calculations
